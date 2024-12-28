@@ -18,11 +18,7 @@ I'm passionate about **building scalable CI/CD pipelines**, **optimizing deploym
 - **Cloud Platforms:** AWS  
 - **Other Tools:** JIRA, Confluence, Oracle WebLogic  
 
----
-
-### 📊 **GitHub Stats**  
-![Pradeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pradeepadlakondawar&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepadlakondawar&layout=compact&theme=radical)  
+---  
 
 ---
 
